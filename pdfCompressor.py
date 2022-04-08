@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-# Author: Sylvain Carlioz
-# 6/03/2017
+# Author: Jonathan Ngabo
 # MIT license -- free to use as you want, cheers.
 
 """
